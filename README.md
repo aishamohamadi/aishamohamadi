@@ -32,8 +32,6 @@ I'm a Computer Science graduate interested in turning data into meaningful insig
 - Working on a housing decision support project for Al Madinah
 
 ### 📫 Connect with me
-https://www.linkedin.com/in/aisha-almohamadi-94736127a/
-mailto:aalmohamadi700@gmail.com
-
-[LinkedIn](YOUR_LINKEDIN_URL)
+- https://www.linkedin.com/in/aisha-almohamadi-94736127a/
+- mailto:aalmohamadi700@gmail.com
 
