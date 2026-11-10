@@ -1,37 +1,44 @@
 # Hi, I'm Aisha 👋
 
-**Computer Science Graduate | Exploring Data, BI & Digital Solutions 📊**
+**Computer Science Graduate | Data Analytics, BI & Applied AI**
 
-I'm a Computer Science graduate interested in turning data into meaningful insights and practical solutions.
+I'm a Computer Science graduate interested in transforming data into meaningful insights and developing practical, data-driven solutions. I enjoy working across data analytics, business intelligence, and applied AI to solve real-world problems.
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
-* **Data & BI:** Power BI, Excel, Power Query, SQL
-* **Programming:** Python, Java
-* **Visualization:** Power BI, Data Visualization
-* **AI & ML:** PyTorch, Deep Learning
+- **Data Analytics & BI:** SQL, Power BI, Excel, Power Query
+- **Programming:** Python, Java
+- **AI & Machine Learning:** PyTorch, Deep Learning, Computer Vision
+- **Data Visualization:** Power BI, Excel
 
-### 📊 Featured Projects
+### Featured Projects
 
-* 🏠 **Madinah Housing Decision Support**
-  A data-driven decision support project focused on housing development in Al Madinah.
+- 🚧 **RoadScan – Road Damage Intelligence**
+  AI-powered road damage detection and analysis for municipalities, developed as part of the AIEP AI Engineering Bootcamp.
 
-* 📱 **Social Media Engagement Analysis**
-  Power BI case study analyzing engagement, reach, and content performance.
+- 🤟 **Arabic Sign Language Translator**
+  B.Sc. graduation project using deep learning and computer vision to recognize and translate Arabic Sign Language.
 
-* 🛒 **Retail Sales Analysis**
-  Excel-based analysis and dashboard exploring sales performance and business insights.
+- 🏠 **Al Madinah Housing Decision Support**
+  An independent data-driven project exploring housing development and supporting decision-making in Al Madinah.
 
-* 🤟 **Arabic Sign Language Translator**
-  Graduation project using Deep Learning for Arabic Sign Language recognition and translation.
+- 🏔️ **AdventureWorks Business Analysis**
+  SQL-based business analysis exploring sales performance, product trends, and business insights using the AdventureWorks database.
 
-### 🎯 Currently
+- 📱 **Social Media Engagement Analysis**
+  Power BI project analyzing engagement, reach, sentiment, and content performance across social media platforms.
 
-- Building data analysis and BI projects
-- Developing my skills in SQL, Power BI, Python, and data visualization
-- Working on a housing decision support project for Al Madinah
+- 🛒 **Retail Sales Analysis**
+  Excel-based analysis and dashboard exploring sales performance, order trends, and key business metrics.
 
-### 📫 Connect with me
-- https://www.linkedin.com/in/aisha-almohamadi-94736127a/
+### Currently
+
+- Developing independent data analytics and business intelligence projects.
+- Expanding my SQL, Python, Power BI, and data visualization skills through practical applications.
+- Exploring real-world problems and building data-driven solutions.
+
+### 📫 Connect with Me
+
 - mailto:aalmohamadi700@gmail.com
+- www.linkedin.com/in/aishamohamadi
 
