@@ -1,8 +1,8 @@
-# Hi, I'm Aisha 👋
+# Aisha | Computer Science Graduate
 
-**Computer Science Graduate | Data Analytics, BI & Applied AI**
+**Data Analytics | Business Intelligence | AI Engineering**
 
-I'm a Computer Science graduate interested in transforming data into meaningful insights and developing practical, data-driven solutions. I enjoy working across data analytics, business intelligence, and applied AI to solve real-world problems.
+I'm a Computer Science graduate interested in data analytics, business intelligence, and applied AI. I focus on using technology and analytical skills to explore data, uncover insights, and develop practical solutions to real-world problems.
 
 ### Tools & Technologies
 
@@ -13,23 +13,16 @@ I'm a Computer Science graduate interested in transforming data into meaningful 
 
 ### Featured Projects
 
-- 🚧 **RoadScan – Road Damage Intelligence**
+- 🚧 **[RoadScan – Road Damage Intelligence](https://github.com/asaeyl/rdd-roadscan)**
   AI-powered road damage detection and analysis for municipalities, developed as part of the AIEP AI Engineering Bootcamp.
 
-- 🤟 **Arabic Sign Language Translator**
+- 🤟 **[Arabic Sign Language Translator](https://github.com/aishamohamadi/Arabic-Sign-Language-Translator)**
   B.Sc. graduation project using deep learning and computer vision to recognize and translate Arabic Sign Language.
 
-- 🏠 **Al Madinah Housing Decision Support**
-  An independent data-driven project exploring housing development and supporting decision-making in Al Madinah.
-
-- 🏔️ **AdventureWorks Business Analysis**
-  SQL-based business analysis exploring sales performance, product trends, and business insights using the AdventureWorks database.
-
-- 📱 **Social Media Engagement Analysis**
-  Power BI project analyzing engagement, reach, sentiment, and content performance across social media platforms.
-
-- 🛒 **Retail Sales Analysis**
-  Excel-based analysis and dashboard exploring sales performance, order trends, and key business metrics.
+- 🛒 **[AdventureWorks Business Analysis](https://github.com/aishamohamadi/AdventureWorks-Sales-Analytics)**
+  SQL-based business analysis of sales and product performance, with an interactive Power BI dashboard to visualize key metrics and insights.
+- 📱 **[Social Media SQL Analytics](https://github.com/aishamohamadi/social-media-sql-analytics)**  
+  MySQL analysis of a relational social media database (13 tables, 5,142 records), exploring user activity, content engagement, and hashtag trends through 28 SQL queries.
 
 ### Currently
 
